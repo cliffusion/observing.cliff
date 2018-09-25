@@ -4,11 +4,11 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Cliff Ching's Blog</title>
+ <title>observing.cliff TechBlog</title>
  <link href="http://cliffusion.github.io/blog/atom.xml" rel="self"/>
- <link href="http://cliffusion.github.io/blog"/>
+ <link href="http://cliffusion.github.io/tech"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://cliffusion.github.io/blog</id>
+ <id>http://cliffusion.github.io/tech</id>
  <author>
    <name>Cliff Ching</name>
    <email>cliffusionous@gmail.com</email>
